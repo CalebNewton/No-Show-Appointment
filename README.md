@@ -17,4 +17,5 @@ This dataset collects information from 100000 medical appointments in brazil and
 * 57246 females out of 71840 showed up for their appointment while about 30962 males out of 38687 showed up for their appointments.
 * 1403 females of 0-yo showed up for their appointment while 1498 males of same age showed up for their appointment. It can be seen the lower the age, the higher their chances of making it to their appointment since less than 12 females of age 98 and above were able to show up while less than 13 males of age 95 and above did same.
 * 5347 males with hypertension showed up for their appointment
+
 From the above analysis, it can be seen that age plays a pivotal role in patients showing up for their appointments. The older we become, the less willing we are to make it for appointment. Also, it can be seen that more women suffers from hypertension and diabetes. This may not be accurate since the values of our dataset are hypothetical. Furthermore, I hope to explore real life dataset in future to ascertain these findings and to confirm if my hypothetical testing conforms with it.
